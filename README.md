@@ -1,3 +1,3 @@
 # hello-world
-le first repository 
-server-client program
+First Repository 
+Server-Client Program
